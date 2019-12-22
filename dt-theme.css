@@ -1,0 +1,7 @@
+section.carwow.background {
+  background-color: white;
+}
+
+section.has-light-background h1, section.has-light-background h2{
+  color: #00a4ff;
+}
